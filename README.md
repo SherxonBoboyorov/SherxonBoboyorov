@@ -1,5 +1,3 @@
-SherxonBoboyorov/README.md
-
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
@@ -12,9 +10,7 @@ SherxonBoboyorov/README.md
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a chat app**
- 
+
  🌱 I’m currently learning **Php, Laravel, Mysql, Html Css**
 
  💬 Ask me about **Php, Laravel, Mysql, Html Css... or anything [here](https://github.com/SherxonBoboyorov)**
