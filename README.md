@@ -1,11 +1,5 @@
 SherxonBoboyorov/README.md
-💫 About Me:
-👋 Hi, I’m @SherxonBoboyorov
-- 👀 I’m interested in WEB
-- 🌱 I’m currently learning PHP,Laravel ,JS
-- 📫 How to reach me: https://sherxonboboyorov.t.me
-💻 Tech Stack:
-PHP JavaScript Bootstrap MySQL 
+
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
@@ -23,7 +17,7 @@ PHP JavaScript Bootstrap MySQL
  
  🌱 I’m currently learning **Php, Laravel, Mysql, Html Css**
 
- 💬 Ask me about **Php, Laravel, Mysql, Html Css... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **Php, Laravel, Mysql, Html Css... or anything [here](https://github.com/SherxonBoboyorov)**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
@@ -46,8 +40,8 @@ PHP JavaScript Bootstrap MySQL
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=php,github,laravel,javascript," /><br>
-    <img src="https://skillicons.dev/icons?i=,bootstrap,mysql,html,css,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=php,github,laravel,javascript,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=,bootstrap,html,css,vscode,git" />
 </div>
 
 <br/>
