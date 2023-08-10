@@ -1,4 +1,4 @@
-ShoyimObloqulov/README.md
+SherxonBoboyorov/README.md
 💫 About Me:
 👋 Hi, I’m @SherxonBoboyorov
 - 👀 I’m interested in WEB
