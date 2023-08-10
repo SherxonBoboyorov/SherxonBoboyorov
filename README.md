@@ -47,7 +47,7 @@ PHP JavaScript Bootstrap MySQL
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=php,github,laravel,javascript," /><br>
-    <img src="https://skillicons.dev/icons?i=,bootstrap,mysql,flask,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=,bootstrap,mysql,html,css,vscode,git" />
 </div>
 
 <br/>
